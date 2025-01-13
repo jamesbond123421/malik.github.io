@@ -19,9 +19,11 @@
 
 ## Projects
 ### Real Estate Fee Tracker
-[Github repo](https://github.com/jamesbond123421/real_estate_platform)
+[Github repo]
+(https://github.com/jamesbond123421/real_estate_platform)
 I developed a Real Estate Fee Tracker that allows users to monitor hidden estate fees in real time. I integrated APIs to provide an interactive map, allowing users to visualize properties and associated fees on a dynamic interface. On the backend, I used SQL to design and manage the database, ensuring smooth storage and retrieval of fee-related data. The system fetches real-time information by connecting the frontend and backend seamlessly, enabling users to track and compare estate hidden fees effortlessly. This project combines both frontend and backend development to create a robust, user-friendly platform for real estate analysis.
 ### Global pay card
-[Github repo](https://github.com/jamesbond123421/multi-card)
+[Github repo]
+(https://github.com/jamesbond123421/multi-card)
 I developed a Multi-Credit Card Currency Manager that allows users to seamlessly convert multiple currencies in real time, providing a comprehensive tool for managing international transactions. The platform includes a built-in currency converter to automatically update exchange rates, ensuring accurate conversions. Additionally, it features real-time stock monitoring and provides insurance against fluctuations, alerting users when there is a rise in stock values. The system also tracks all card transactions, with a credit limit of $10,000, offering users detailed insights into their spending. This project combines financial management, real-time data processing, and insurance features to deliver a powerful solution for individualsand international corporations handling multiple currencies and credit cards. 
 
